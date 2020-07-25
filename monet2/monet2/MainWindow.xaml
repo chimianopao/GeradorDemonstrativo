@@ -1,0 +1,30 @@
+﻿<Window x:Class="monet2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gerador de Demonstrativo para Interior Monetti" Height="525" Width="525">
+    <Grid>
+        <Label Content="Revendedora" HorizontalAlignment="Left" Margin="25,19,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxValorBruto" HorizontalAlignment="Left" Height="23" Margin="116,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1"/>
+        <Label Content="Valor Bruto" HorizontalAlignment="Left" Margin="25,50,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxDesconto" HorizontalAlignment="Left" Height="23" Margin="116,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Desconto" HorizontalAlignment="Left" Margin="25,81,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxMostruario" HorizontalAlignment="Left" Height="23" Margin="116,113,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Mostruário" HorizontalAlignment="Left" Margin="25,113,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxOutros" HorizontalAlignment="Left" Height="23" Margin="116,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Outros" HorizontalAlignment="Left" Margin="25,144,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxFrete" HorizontalAlignment="Left" Height="23" Margin="116,175,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Frete" HorizontalAlignment="Left" Margin="25,175,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxChequeCorreio" HorizontalAlignment="Left" Height="23" Margin="116,206,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="textBoxChequeCorreio_TextChanged"/>
+        <Label Content="Cheque correio" HorizontalAlignment="Left" Margin="25,206,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxValorLiquido" HorizontalAlignment="Left" Height="23" Margin="116,237,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Valor Líquido" HorizontalAlignment="Left" Margin="25,237,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="buttonCalcular" Content="Calcular" HorizontalAlignment="Left" Margin="297,113,0,0" VerticalAlignment="Top" Width="75" Click="buttonCalcular_Click"/>
+        <Label Content="%" HorizontalAlignment="Left" Margin="236,78,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="buttonAbrirPDF"  Content="Abrir PDF" HorizontalAlignment="Left" Margin="214,305,0,0" VerticalAlignment="Top" Width="75" Click="buttonAbrirPDF_Click" Visibility="Hidden"/>
+        <ComboBox x:Name="comboBoxRevendedora" HorizontalAlignment="Left" Margin="116,23,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBoxRevendedora_SelectionChanged" RenderTransformOrigin="0,0"/>
+        <Button x:Name="cadRevendedoraButton" Content="Cadastrar Revendedora" HorizontalAlignment="Left" Margin="297,25,0,0" VerticalAlignment="Top" Width="139" Click="cadRevendedoraButton_Click"/>
+        <Label Content="CEP:" HorizontalAlignment="Left" Margin="266,175,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="cepLabel" Content="" HorizontalAlignment="Left" Margin="304,175,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="buttonEtiquetas" Content="Etiquetas" HorizontalAlignment="Left" Margin="405,73,0,0" VerticalAlignment="Top" Width="75" Click="buttonEtiquetas_Click"/>
+    </Grid>
+</Window>

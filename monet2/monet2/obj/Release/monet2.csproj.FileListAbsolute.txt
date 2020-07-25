@@ -1,0 +1,262 @@
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\monet2.exe.config
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\monet2.exe.manifest
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\monet2.application
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\monet2.exe
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\monet2.pdb
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\EntityFramework.dll
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\itextsharp.dll
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\itextsharp.xmlworker.dll
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\System.Data.SQLite.dll
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\EntityFramework.xml
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\itextsharp.xml
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\System.Data.SQLite.xml
+C:\Users\Theilor\Desktop\monet2\monet2\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.csprojAssemblyReference.cache
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\App.g.cs
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.cache
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.csproj.CoreCompileInputs.cache
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.exe.manifest
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.application
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.csproj.CopyComplete
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.exe
+C:\Users\Theilor\Desktop\monet2\monet2\obj\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\monet2.exe.config
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\monet2.application
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\EntityFramework.dll
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\itextsharp.dll
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\itextsharp.xmlworker.dll
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\System.Data.SQLite.dll
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\EntityFramework.xml
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\itextsharp.xml
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\bin\Release\System.Data.SQLite.xml
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\App.g.cs
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.Cache
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\drive-download-20180528T211251Z-001\monet2\monet2\obj\Release\monet2.application
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.exe.config
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.application
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\EntityFramework.dll
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\itextsharp.dll
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\itextsharp.xmlworker.dll
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.dll
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\EntityFramework.xml
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\itextsharp.xml
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.xml
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.csprojResolveAssemblyReference.cache
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\App.g.cs
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.Cache
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.application
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.exe
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.pdb
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.dll
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.exe.config
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.exe.manifest
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\monet2.application
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\EntityFramework.dll
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\itextsharp.dll
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\itextsharp.xmlworker.dll
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\EntityFramework.xml
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\itextsharp.xml
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.xml
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.csprojAssemblyReference.cache
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\App.g.cs
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.cache
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.csproj.CoreCompileInputs.cache
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.exe.manifest
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.application
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.csproj.CopyComplete
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.exe
+C:\Users\Theilor\Desktop\monet2 versao 1.0 (1)\monet2 versao 1.0\monet2\monet2\obj\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\monet2.exe.config
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\monet2.application
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\EntityFramework.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\itextsharp.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\itextsharp.xmlworker.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\System.Data.SQLite.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\EntityFramework.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\itextsharp.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\bin\Release\System.Data.SQLite.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2.csprojResolveAssemblyReference.cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\App.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.Cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 1.2\Gerador demonstrativo versao 1.2\monet2\monet2\obj\Release\monet2.application
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\monet2.exe.config
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\monet2.application
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\EntityFramework.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\itextsharp.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\itextsharp.xmlworker.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\System.Data.SQLite.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\EntityFramework.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\itextsharp.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\bin\Release\System.Data.SQLite.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2.csprojResolveAssemblyReference.cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\App.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.Cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 2.0\Gerador demonstrativo versao 2.0\monet2\monet2\obj\Release\monet2.application
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\monet2.exe.config
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\monet2.application
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\EntityFramework.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\itextsharp.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\itextsharp.xmlworker.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\System.Data.SQLite.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\EntityFramework.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\itextsharp.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\bin\Release\System.Data.SQLite.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2.csprojResolveAssemblyReference.cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\App.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.Cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.0\Gerador demonstrativo versao 3.0\monet2\monet2\obj\Release\monet2.application
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\monet2.exe.config
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\monet2.application
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\monet2.exe
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\monet2.pdb
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\EntityFramework.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\itextsharp.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\itextsharp.xmlworker.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\System.Data.SQLite.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\EntityFramework.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\itextsharp.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\bin\Release\System.Data.SQLite.xml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.csprojResolveAssemblyReference.cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\EtiquetasWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\EtiquetasWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\App.g.cs
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.Cache
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.exe.manifest
+C:\Users\tdraddatz\Desktop\Gerador demonstrativo versao 3.1\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.application
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.csprojAssemblyReference.cache
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\CadastroWindow.baml
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\EtiquetasWindow.baml
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\MainWindow.baml
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\CadastroWindow.g.cs
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\EtiquetasWindow.g.cs
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\MainWindow.g.cs
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\App.g.cs
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2_MarkupCompile.cache
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.g.resources
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.Properties.Resources.resources
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.csproj.GenerateResource.cache
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.csproj.CoreCompileInputs.cache
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.exe
+C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Release\monet2.pdb

@@ -1,0 +1,33 @@
+﻿<Window x:Class="monet2.CadastroWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cadastro de Revendedoras" Height="408" Width="732.866">
+    <Grid>
+        <Label Content="Cadastro de Revendedora" HorizontalAlignment="Left" Margin="124,10,0,0" VerticalAlignment="Top" Height="38" Width="242" IsEnabled="False" FontSize="18"/>
+        <Label Content="Nome:" HorizontalAlignment="Left" Margin="44,53,0,0" VerticalAlignment="Top"/>
+        <Label Content="End:" HorizontalAlignment="Left" Margin="44,84,0,0" VerticalAlignment="Top"/>
+        <Label Content="Bairro:" HorizontalAlignment="Left" Margin="44,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cidade:" HorizontalAlignment="Left" Margin="44,149,0,0" VerticalAlignment="Top"/>
+        <Label Content="UF:" HorizontalAlignment="Left" Margin="418,149,0,0" VerticalAlignment="Top"/>
+        <Label Content="CEP:" HorizontalAlignment="Left" Margin="44,180,0,0" VerticalAlignment="Top"/>
+        <Label Content="Telefone:" HorizontalAlignment="Left" Margin="44,211,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxNome" HorizontalAlignment="Left" Height="23" Margin="94,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="374" Padding="0,2,0,0" MaxLength="60"/>
+        <TextBox x:Name="textBoxRua" HorizontalAlignment="Left" Height="23" Margin="94,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="374" Padding="0,2,0,0"/>
+        <TextBox x:Name="textBoxBairro" HorizontalAlignment="Left" Height="23" Margin="94,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214" Padding="0,2,0,0"/>
+        <TextBox x:Name="textBoxCidade" HorizontalAlignment="Left" Height="23" Margin="94,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="319" Padding="0,2,0,0"/>
+        <TextBox x:Name="textBoxUF" HorizontalAlignment="Left" Height="23" Margin="445,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="33" Text="RS" BorderThickness="1" Padding="0,2,0,0"/>
+        <TextBox x:Name="textBoxCEP" HorizontalAlignment="Left" Height="23" Margin="94,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="105" Padding="0,2,0,0"/>
+        <TextBox x:Name="textBoxDesconto" HorizontalAlignment="Left" Height="23" Margin="327,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="48" Text="20" BorderThickness="1" Padding="0,2,0,0"/>
+        <TextBox x:Name="textBoxTelefone" HorizontalAlignment="Left" Height="23" Margin="106,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" Padding="0,2,0,0"/>
+        <Button x:Name="buttonCadastrar" Content="Cadastrar" HorizontalAlignment="Left" Margin="155,263,0,0" VerticalAlignment="Top" Width="75" Click="buttonCadastrar_Click"/>
+        <Button x:Name="buttonVoltar" Content="Voltar" HorizontalAlignment="Left" Margin="352,263,0,0" VerticalAlignment="Top" Width="75" Click="buttonVoltar_Click"/>
+        <Label Content="Desconto:" HorizontalAlignment="Left" Margin="264,177,0,0" VerticalAlignment="Top"/>
+        <Label Content="%" HorizontalAlignment="Left" Margin="380,177,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBoxRevendedoraAlteracao" HorizontalAlignment="Left" Margin="504,53,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBoxRevendedoraAlteracao_SelectionChanged" RenderTransformOrigin="0,0"/>
+        <Label Content="Alterar Revendedora" HorizontalAlignment="Left" Margin="504,10,0,0" VerticalAlignment="Top" Height="38" Width="177" IsEnabled="False" FontSize="18"/>
+        <Button x:Name="buttonAlterar" Content="Alterar" HorizontalAlignment="Left" Margin="255,263,0,0" VerticalAlignment="Top" Width="75" Click="ButtonAlterar_Click" Visibility="Hidden"/>
+        <Button x:Name="buttonNovo" Content="Novo" HorizontalAlignment="Left" Margin="60,263,0,0" VerticalAlignment="Top" Width="75" Click="ButtonNovo_Click"/>
+        <CheckBox x:Name="checkBoxDesconto" Content="20+5 %" HorizontalAlignment="Left" Margin="417,185,0,0" VerticalAlignment="Top" Checked="CheckBoxDesconto_Checked" Unchecked="checkBoxDesconto_Unchecked"/>
+
+    </Grid>
+</Window>
