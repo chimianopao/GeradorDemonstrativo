@@ -309,3 +309,39 @@ C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Debu
 C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Debug\monet2.exe.manifest
 C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Debug\monet2.application
 C:\Users\Theilor\Desktop\Gerador demonstrativo versao 3.1\monet2\monet2\obj\Debug\monet2.csproj.CopyComplete
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\monet2.exe.config
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\monet2.exe.manifest
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\monet2.application
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\monet2.exe
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\monet2.pdb
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\EntityFramework.dll
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\FastMember.dll
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\itextsharp.dll
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\itextsharp.xmlworker.dll
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\System.Data.SQLite.dll
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\EntityFramework.xml
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\itextsharp.xml
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\System.Data.SQLite.xml
+C:\Github\GeradorDemonstrativo\monet2\monet2\bin\Debug\System.Data.SQLite.dll.config
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.csprojAssemblyReference.cache
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\CadastroWindow.baml
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\EtiquetasWindow.baml
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\MainWindow.baml
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\CadastroWindow.g.cs
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\EtiquetasWindow.g.cs
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\MainWindow.g.cs
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\App.g.cs
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2_MarkupCompile.cache
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.g.resources
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.Properties.Resources.resources
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.csproj.GenerateResource.cache
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.csproj.CoreCompileInputs.cache
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.exe.manifest
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.application
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.csproj.CopyComplete
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.exe
+C:\Github\GeradorDemonstrativo\monet2\monet2\obj\Debug\monet2.pdb
