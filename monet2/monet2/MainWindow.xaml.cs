@@ -216,10 +216,12 @@ namespace monet2 {
 
                 row -= 12;
                 cb.SetTextMatrix(270, 665);
-                cb.ShowText("Rua Eng. Arnaldo Gladosch, 401 - Porto Alegre - RS");
+                cb.ShowText("Rua Eng. Arnaldo Gladosch, 401");
+                cb.SetTextMatrix(270, 650);
+                cb.ShowText("Porto Alegre - RS");
 
-                cb.SetTextMatrix(290, 605);
-                cb.ShowText("Telefones: (51) 99173-2944, (51) 99971-6007");
+                cb.SetTextMatrix(270, 615);
+                cb.ShowText("Telefone (WhatsApp): (51) 99971-6007");
 
                 cb.SetTextMatrix(10, 700);
 
